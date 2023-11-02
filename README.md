@@ -2,6 +2,16 @@
 
 A simple game that makes you type as fast as possible.
 
-## Demo
 
-https://kevin-ha-kha.github.io/speed_typing_game/
+## API Reference
+
+### Get item
+
+```http
+  GET http://api.quotable.io/random
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `none`      | `none` | return a random quote |
+
